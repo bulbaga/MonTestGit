@@ -4,6 +4,6 @@ session_start();
 echo "ok";
 echo "<br>on ajoute un truc";
 
-$etoiel = "",
+$etoile = "",
 $spec = $etoile;
 ?>
